@@ -1,0 +1,3 @@
+firebase link  is https://gamelinker-8df66.firebaseapp.com/
+you can view games info by installing  Allow-Control-Allow-Origin from below link
+https://chrome.google.com/webstore/search/Allow-Control-Allow-Origin?hl=en
